@@ -1,0 +1,889 @@
+"","Case.Status","WHO.region","Date","cases"
+"1","Confirmed","Western Pacific Region",2020-01-21,0
+"2","Confirmed","Western Pacific Region",2020-01-22,0
+"3","Confirmed","Western Pacific Region",2020-01-23,0
+"4","Confirmed","Western Pacific Region",2020-01-24,0
+"5","Confirmed","Western Pacific Region",2020-01-25,0
+"6","Confirmed","Western Pacific Region",2020-01-26,0
+"7","Confirmed","Western Pacific Region",2020-01-27,0
+"8","Confirmed","Western Pacific Region",2020-01-28,0
+"9","Confirmed","Western Pacific Region",2020-01-29,0
+"10","Confirmed","Western Pacific Region",2020-01-30,0
+"11","Confirmed","Western Pacific Region",2020-01-31,0
+"12","Confirmed","Western Pacific Region",2020-02-01,0
+"13","Confirmed","Western Pacific Region",2020-02-02,0
+"14","Confirmed","Western Pacific Region",2020-02-03,0
+"15","Confirmed","Western Pacific Region",2020-02-04,0
+"16","Confirmed","Western Pacific Region",2020-02-05,0
+"17","Confirmed","Western Pacific Region",2020-02-06,0
+"18","Confirmed","Western Pacific Region",2020-02-07,0
+"19","Confirmed","Western Pacific Region",2020-02-08,0
+"20","Confirmed","Western Pacific Region",2020-02-09,0
+"21","Confirmed","Western Pacific Region",2020-02-10,0
+"22","Confirmed","Western Pacific Region",2020-02-11,0
+"23","Confirmed","Western Pacific Region",2020-02-12,0
+"24","Confirmed","Western Pacific Region",2020-02-13,0
+"25","Confirmed","Western Pacific Region",2020-02-14,0
+"26","Confirmed","Western Pacific Region",2020-02-15,0
+"27","Confirmed","Western Pacific Region",2020-02-16,0
+"28","Confirmed","Western Pacific Region",2020-02-17,0
+"29","Confirmed","Western Pacific Region",2020-02-18,0
+"30","Confirmed","Western Pacific Region",2020-02-19,0
+"31","Confirmed","Western Pacific Region",2020-02-20,0
+"32","Confirmed","Western Pacific Region",2020-02-21,0
+"33","Confirmed","Western Pacific Region",2020-02-22,0
+"34","Confirmed","Western Pacific Region",2020-02-23,0
+"35","Confirmed","Western Pacific Region",2020-02-24,0
+"36","Confirmed","Western Pacific Region",2020-02-25,0
+"37","Confirmed","Western Pacific Region",2020-02-26,0
+"38","Confirmed","Western Pacific Region",2020-02-27,0
+"39","Confirmed","Western Pacific Region",2020-02-28,0
+"40","Confirmed","Western Pacific Region",2020-02-29,0
+"41","Confirmed","Western Pacific Region",2020-03-01,0
+"42","Confirmed","Western Pacific Region",2020-03-02,0
+"43","Confirmed","Western Pacific Region",2020-03-03,0
+"44","Confirmed","Western Pacific Region",2020-03-04,0
+"45","Confirmed","Western Pacific Region",2020-03-05,0
+"46","Confirmed","Western Pacific Region",2020-03-06,0
+"47","Confirmed","Western Pacific Region",2020-03-07,0
+"48","Confirmed","Western Pacific Region",2020-03-08,0
+"49","Confirmed","Western Pacific Region",2020-03-09,0
+"50","Confirmed","Western Pacific Region",2020-03-10,0
+"51","Confirmed","Western Pacific Region",2020-03-11,0
+"52","Confirmed","Western Pacific Region",2020-03-12,0
+"53","Confirmed","Western Pacific Region",2020-03-13,0
+"54","Confirmed","Western Pacific Region",2020-03-14,0
+"55","Confirmed","Western Pacific Region",2020-03-15,0
+"56","Confirmed","Western Pacific Region",2020-03-16,0
+"57","Confirmed","Western Pacific Region",2020-03-17,91779
+"58","Confirmed","Western Pacific Region",2020-03-18,91845
+"59","Confirmed","Western Pacific Region",2020-03-19,92333
+"60","Confirmed","Western Pacific Region",2020-03-20,93349
+"61","Confirmed","Western Pacific Region",2020-03-21,94037
+"62","Confirmed","Western Pacific Region",2020-03-22,94787
+"63","Confirmed","Western Pacific Region",2020-03-23,95637
+"64","Confirmed","Western Pacific Region",2020-03-24,96580
+"65","Confirmed","Western Pacific Region",2020-03-25,97766
+"66","Confirmed","Western Pacific Region",2020-03-26,99058
+"67","Confirmed","Western Pacific Region",2020-03-27,100018
+"68","Confirmed","Western Pacific Region",2020-03-28,101443
+"69","Confirmed","Western Pacific Region",2020-03-29,102788
+"70","Confirmed","Western Pacific Region",2020-03-30,103775
+"71","Confirmed","Western Pacific Region",2020-03-31,104868
+"72","Confirmed","Western Pacific Region",2020-04-01,106422
+"73","Confirmed","Western Pacific Region",2020-04-02,107626
+"74","Confirmed","Western Pacific Region",2020-04-03,108930
+"75","Deaths","Western Pacific Region",2020-01-21,0
+"76","Deaths","Western Pacific Region",2020-01-22,0
+"77","Deaths","Western Pacific Region",2020-01-23,0
+"78","Deaths","Western Pacific Region",2020-01-24,0
+"79","Deaths","Western Pacific Region",2020-01-25,0
+"80","Deaths","Western Pacific Region",2020-01-26,0
+"81","Deaths","Western Pacific Region",2020-01-27,0
+"82","Deaths","Western Pacific Region",2020-01-28,0
+"83","Deaths","Western Pacific Region",2020-01-29,0
+"84","Deaths","Western Pacific Region",2020-01-30,0
+"85","Deaths","Western Pacific Region",2020-01-31,0
+"86","Deaths","Western Pacific Region",2020-02-01,0
+"87","Deaths","Western Pacific Region",2020-02-02,0
+"88","Deaths","Western Pacific Region",2020-02-03,0
+"89","Deaths","Western Pacific Region",2020-02-04,0
+"90","Deaths","Western Pacific Region",2020-02-05,0
+"91","Deaths","Western Pacific Region",2020-02-06,0
+"92","Deaths","Western Pacific Region",2020-02-07,0
+"93","Deaths","Western Pacific Region",2020-02-08,0
+"94","Deaths","Western Pacific Region",2020-02-09,0
+"95","Deaths","Western Pacific Region",2020-02-10,0
+"96","Deaths","Western Pacific Region",2020-02-11,0
+"97","Deaths","Western Pacific Region",2020-02-12,0
+"98","Deaths","Western Pacific Region",2020-02-13,0
+"99","Deaths","Western Pacific Region",2020-02-14,0
+"100","Deaths","Western Pacific Region",2020-02-15,0
+"101","Deaths","Western Pacific Region",2020-02-16,0
+"102","Deaths","Western Pacific Region",2020-02-17,0
+"103","Deaths","Western Pacific Region",2020-02-18,0
+"104","Deaths","Western Pacific Region",2020-02-19,0
+"105","Deaths","Western Pacific Region",2020-02-20,0
+"106","Deaths","Western Pacific Region",2020-02-21,0
+"107","Deaths","Western Pacific Region",2020-02-22,0
+"108","Deaths","Western Pacific Region",2020-02-23,0
+"109","Deaths","Western Pacific Region",2020-02-24,0
+"110","Deaths","Western Pacific Region",2020-02-25,0
+"111","Deaths","Western Pacific Region",2020-02-26,0
+"112","Deaths","Western Pacific Region",2020-02-27,0
+"113","Deaths","Western Pacific Region",2020-02-28,0
+"114","Deaths","Western Pacific Region",2020-02-29,0
+"115","Deaths","Western Pacific Region",2020-03-01,0
+"116","Deaths","Western Pacific Region",2020-03-02,0
+"117","Deaths","Western Pacific Region",2020-03-03,0
+"118","Deaths","Western Pacific Region",2020-03-04,0
+"119","Deaths","Western Pacific Region",2020-03-05,0
+"120","Deaths","Western Pacific Region",2020-03-06,0
+"121","Deaths","Western Pacific Region",2020-03-07,0
+"122","Deaths","Western Pacific Region",2020-03-08,0
+"123","Deaths","Western Pacific Region",2020-03-09,0
+"124","Deaths","Western Pacific Region",2020-03-10,0
+"125","Deaths","Western Pacific Region",2020-03-11,0
+"126","Deaths","Western Pacific Region",2020-03-12,0
+"127","Deaths","Western Pacific Region",2020-03-13,0
+"128","Deaths","Western Pacific Region",2020-03-14,0
+"129","Deaths","Western Pacific Region",2020-03-15,0
+"130","Deaths","Western Pacific Region",2020-03-16,0
+"131","Deaths","Western Pacific Region",2020-03-17,3357
+"132","Deaths","Western Pacific Region",2020-03-18,3357
+"133","Deaths","Western Pacific Region",2020-03-19,3377
+"134","Deaths","Western Pacific Region",2020-03-20,3405
+"135","Deaths","Western Pacific Region",2020-03-21,3426
+"136","Deaths","Western Pacific Region",2020-03-22,3438
+"137","Deaths","Western Pacific Region",2020-03-23,3473
+"138","Deaths","Western Pacific Region",2020-03-24,3502
+"139","Deaths","Western Pacific Region",2020-03-25,3518
+"140","Deaths","Western Pacific Region",2020-03-26,3540
+"141","Deaths","Western Pacific Region",2020-03-27,3567
+"142","Deaths","Western Pacific Region",2020-03-28,3592
+"143","Deaths","Western Pacific Region",2020-03-29,3626
+"144","Deaths","Western Pacific Region",2020-03-30,3649
+"145","Deaths","Western Pacific Region",2020-03-31,3671
+"146","Deaths","Western Pacific Region",2020-04-01,3701
+"147","Deaths","Western Pacific Region",2020-04-02,3723
+"148","Deaths","Western Pacific Region",2020-04-03,3760
+"149","Confirmed","European Region",2020-01-21,0
+"150","Confirmed","European Region",2020-01-22,0
+"151","Confirmed","European Region",2020-01-23,0
+"152","Confirmed","European Region",2020-01-24,0
+"153","Confirmed","European Region",2020-01-25,0
+"154","Confirmed","European Region",2020-01-26,0
+"155","Confirmed","European Region",2020-01-27,0
+"156","Confirmed","European Region",2020-01-28,0
+"157","Confirmed","European Region",2020-01-29,0
+"158","Confirmed","European Region",2020-01-30,0
+"159","Confirmed","European Region",2020-01-31,0
+"160","Confirmed","European Region",2020-02-01,0
+"161","Confirmed","European Region",2020-02-02,0
+"162","Confirmed","European Region",2020-02-03,0
+"163","Confirmed","European Region",2020-02-04,0
+"164","Confirmed","European Region",2020-02-05,0
+"165","Confirmed","European Region",2020-02-06,0
+"166","Confirmed","European Region",2020-02-07,0
+"167","Confirmed","European Region",2020-02-08,0
+"168","Confirmed","European Region",2020-02-09,0
+"169","Confirmed","European Region",2020-02-10,0
+"170","Confirmed","European Region",2020-02-11,0
+"171","Confirmed","European Region",2020-02-12,0
+"172","Confirmed","European Region",2020-02-13,0
+"173","Confirmed","European Region",2020-02-14,0
+"174","Confirmed","European Region",2020-02-15,0
+"175","Confirmed","European Region",2020-02-16,0
+"176","Confirmed","European Region",2020-02-17,0
+"177","Confirmed","European Region",2020-02-18,0
+"178","Confirmed","European Region",2020-02-19,0
+"179","Confirmed","European Region",2020-02-20,0
+"180","Confirmed","European Region",2020-02-21,0
+"181","Confirmed","European Region",2020-02-22,0
+"182","Confirmed","European Region",2020-02-23,0
+"183","Confirmed","European Region",2020-02-24,0
+"184","Confirmed","European Region",2020-02-25,0
+"185","Confirmed","European Region",2020-02-26,0
+"186","Confirmed","European Region",2020-02-27,0
+"187","Confirmed","European Region",2020-02-28,0
+"188","Confirmed","European Region",2020-02-29,0
+"189","Confirmed","European Region",2020-03-01,0
+"190","Confirmed","European Region",2020-03-02,0
+"191","Confirmed","European Region",2020-03-03,0
+"192","Confirmed","European Region",2020-03-04,0
+"193","Confirmed","European Region",2020-03-05,0
+"194","Confirmed","European Region",2020-03-06,0
+"195","Confirmed","European Region",2020-03-07,0
+"196","Confirmed","European Region",2020-03-08,0
+"197","Confirmed","European Region",2020-03-09,0
+"198","Confirmed","European Region",2020-03-10,0
+"199","Confirmed","European Region",2020-03-11,0
+"200","Confirmed","European Region",2020-03-12,0
+"201","Confirmed","European Region",2020-03-13,0
+"202","Confirmed","European Region",2020-03-14,0
+"203","Confirmed","European Region",2020-03-15,0
+"204","Confirmed","European Region",2020-03-16,0
+"205","Confirmed","European Region",2020-03-17,64188
+"206","Confirmed","European Region",2020-03-18,74760
+"207","Confirmed","European Region",2020-03-19,87108
+"208","Confirmed","European Region",2020-03-20,104591
+"209","Confirmed","European Region",2020-03-21,128541
+"210","Confirmed","European Region",2020-03-22,151293
+"211","Confirmed","European Region",2020-03-23,171424
+"212","Confirmed","European Region",2020-03-24,195509
+"213","Confirmed","European Region",2020-03-25,220516
+"214","Confirmed","European Region",2020-03-26,250287
+"215","Confirmed","European Region",2020-03-27,286697
+"216","Confirmed","European Region",2020-03-28,324343
+"217","Confirmed","European Region",2020-03-29,361031
+"218","Confirmed","European Region",2020-03-30,392815
+"219","Confirmed","European Region",2020-03-31,423946
+"220","Confirmed","European Region",2020-04-01,464212
+"221","Confirmed","European Region",2020-04-02,503006
+"222","Confirmed","European Region",2020-04-03,541808
+"223","Deaths","European Region",2020-01-21,0
+"224","Deaths","European Region",2020-01-22,0
+"225","Deaths","European Region",2020-01-23,0
+"226","Deaths","European Region",2020-01-24,0
+"227","Deaths","European Region",2020-01-25,0
+"228","Deaths","European Region",2020-01-26,0
+"229","Deaths","European Region",2020-01-27,0
+"230","Deaths","European Region",2020-01-28,0
+"231","Deaths","European Region",2020-01-29,0
+"232","Deaths","European Region",2020-01-30,0
+"233","Deaths","European Region",2020-01-31,0
+"234","Deaths","European Region",2020-02-01,0
+"235","Deaths","European Region",2020-02-02,0
+"236","Deaths","European Region",2020-02-03,0
+"237","Deaths","European Region",2020-02-04,0
+"238","Deaths","European Region",2020-02-05,0
+"239","Deaths","European Region",2020-02-06,0
+"240","Deaths","European Region",2020-02-07,0
+"241","Deaths","European Region",2020-02-08,0
+"242","Deaths","European Region",2020-02-09,0
+"243","Deaths","European Region",2020-02-10,0
+"244","Deaths","European Region",2020-02-11,0
+"245","Deaths","European Region",2020-02-12,0
+"246","Deaths","European Region",2020-02-13,0
+"247","Deaths","European Region",2020-02-14,0
+"248","Deaths","European Region",2020-02-15,0
+"249","Deaths","European Region",2020-02-16,0
+"250","Deaths","European Region",2020-02-17,0
+"251","Deaths","European Region",2020-02-18,0
+"252","Deaths","European Region",2020-02-19,0
+"253","Deaths","European Region",2020-02-20,0
+"254","Deaths","European Region",2020-02-21,0
+"255","Deaths","European Region",2020-02-22,0
+"256","Deaths","European Region",2020-02-23,0
+"257","Deaths","European Region",2020-02-24,0
+"258","Deaths","European Region",2020-02-25,0
+"259","Deaths","European Region",2020-02-26,0
+"260","Deaths","European Region",2020-02-27,0
+"261","Deaths","European Region",2020-02-28,0
+"262","Deaths","European Region",2020-02-29,0
+"263","Deaths","European Region",2020-03-01,0
+"264","Deaths","European Region",2020-03-02,0
+"265","Deaths","European Region",2020-03-03,0
+"266","Deaths","European Region",2020-03-04,0
+"267","Deaths","European Region",2020-03-05,0
+"268","Deaths","European Region",2020-03-06,0
+"269","Deaths","European Region",2020-03-07,0
+"270","Deaths","European Region",2020-03-08,0
+"271","Deaths","European Region",2020-03-09,0
+"272","Deaths","European Region",2020-03-10,0
+"273","Deaths","European Region",2020-03-11,0
+"274","Deaths","European Region",2020-03-12,0
+"275","Deaths","European Region",2020-03-13,0
+"276","Deaths","European Region",2020-03-14,0
+"277","Deaths","European Region",2020-03-15,0
+"278","Deaths","European Region",2020-03-16,0
+"279","Deaths","European Region",2020-03-17,3108
+"280","Deaths","European Region",2020-03-18,3352
+"281","Deaths","European Region",2020-03-19,4084
+"282","Deaths","European Region",2020-03-20,4899
+"283","Deaths","European Region",2020-03-21,6000
+"284","Deaths","European Region",2020-03-22,7425
+"285","Deaths","European Region",2020-03-23,8742
+"286","Deaths","European Region",2020-03-24,10189
+"287","Deaths","European Region",2020-03-25,11986
+"288","Deaths","European Region",2020-03-26,13950
+"289","Deaths","European Region",2020-03-27,16105
+"290","Deaths","European Region",2020-03-28,18740
+"291","Deaths","European Region",2020-03-29,21427
+"292","Deaths","European Region",2020-03-30,23962
+"293","Deaths","European Region",2020-03-31,26694
+"294","Deaths","European Region",2020-04-01,30089
+"295","Deaths","European Region",2020-04-02,33604
+"296","Deaths","European Region",2020-04-03,37103
+"297","Confirmed","South-East Asia Region",2020-01-21,0
+"298","Confirmed","South-East Asia Region",2020-01-22,0
+"299","Confirmed","South-East Asia Region",2020-01-23,0
+"300","Confirmed","South-East Asia Region",2020-01-24,0
+"301","Confirmed","South-East Asia Region",2020-01-25,0
+"302","Confirmed","South-East Asia Region",2020-01-26,0
+"303","Confirmed","South-East Asia Region",2020-01-27,0
+"304","Confirmed","South-East Asia Region",2020-01-28,0
+"305","Confirmed","South-East Asia Region",2020-01-29,0
+"306","Confirmed","South-East Asia Region",2020-01-30,0
+"307","Confirmed","South-East Asia Region",2020-01-31,0
+"308","Confirmed","South-East Asia Region",2020-02-01,0
+"309","Confirmed","South-East Asia Region",2020-02-02,0
+"310","Confirmed","South-East Asia Region",2020-02-03,0
+"311","Confirmed","South-East Asia Region",2020-02-04,0
+"312","Confirmed","South-East Asia Region",2020-02-05,0
+"313","Confirmed","South-East Asia Region",2020-02-06,0
+"314","Confirmed","South-East Asia Region",2020-02-07,0
+"315","Confirmed","South-East Asia Region",2020-02-08,0
+"316","Confirmed","South-East Asia Region",2020-02-09,0
+"317","Confirmed","South-East Asia Region",2020-02-10,0
+"318","Confirmed","South-East Asia Region",2020-02-11,0
+"319","Confirmed","South-East Asia Region",2020-02-12,0
+"320","Confirmed","South-East Asia Region",2020-02-13,0
+"321","Confirmed","South-East Asia Region",2020-02-14,0
+"322","Confirmed","South-East Asia Region",2020-02-15,0
+"323","Confirmed","South-East Asia Region",2020-02-16,0
+"324","Confirmed","South-East Asia Region",2020-02-17,0
+"325","Confirmed","South-East Asia Region",2020-02-18,0
+"326","Confirmed","South-East Asia Region",2020-02-19,0
+"327","Confirmed","South-East Asia Region",2020-02-20,0
+"328","Confirmed","South-East Asia Region",2020-02-21,0
+"329","Confirmed","South-East Asia Region",2020-02-22,0
+"330","Confirmed","South-East Asia Region",2020-02-23,0
+"331","Confirmed","South-East Asia Region",2020-02-24,0
+"332","Confirmed","South-East Asia Region",2020-02-25,0
+"333","Confirmed","South-East Asia Region",2020-02-26,0
+"334","Confirmed","South-East Asia Region",2020-02-27,0
+"335","Confirmed","South-East Asia Region",2020-02-28,0
+"336","Confirmed","South-East Asia Region",2020-02-29,0
+"337","Confirmed","South-East Asia Region",2020-03-01,0
+"338","Confirmed","South-East Asia Region",2020-03-02,0
+"339","Confirmed","South-East Asia Region",2020-03-03,0
+"340","Confirmed","South-East Asia Region",2020-03-04,0
+"341","Confirmed","South-East Asia Region",2020-03-05,0
+"342","Confirmed","South-East Asia Region",2020-03-06,0
+"343","Confirmed","South-East Asia Region",2020-03-07,0
+"344","Confirmed","South-East Asia Region",2020-03-08,0
+"345","Confirmed","South-East Asia Region",2020-03-09,0
+"346","Confirmed","South-East Asia Region",2020-03-10,0
+"347","Confirmed","South-East Asia Region",2020-03-11,0
+"348","Confirmed","South-East Asia Region",2020-03-12,0
+"349","Confirmed","South-East Asia Region",2020-03-13,0
+"350","Confirmed","South-East Asia Region",2020-03-14,0
+"351","Confirmed","South-East Asia Region",2020-03-15,0
+"352","Confirmed","South-East Asia Region",2020-03-16,0
+"353","Confirmed","South-East Asia Region",2020-03-17,508
+"354","Confirmed","South-East Asia Region",2020-03-18,538
+"355","Confirmed","South-East Asia Region",2020-03-19,657
+"356","Confirmed","South-East Asia Region",2020-03-20,918
+"357","Confirmed","South-East Asia Region",2020-03-21,979
+"358","Confirmed","South-East Asia Region",2020-03-22,1257
+"359","Confirmed","South-East Asia Region",2020-03-23,1776
+"360","Confirmed","South-East Asia Region",2020-03-24,1990
+"361","Confirmed","South-East Asia Region",2020-03-25,2344
+"362","Confirmed","South-East Asia Region",2020-03-26,2536
+"363","Confirmed","South-East Asia Region",2020-03-27,2932
+"364","Confirmed","South-East Asia Region",2020-03-28,3085
+"365","Confirmed","South-East Asia Region",2020-03-29,3709
+"366","Confirmed","South-East Asia Region",2020-03-30,4084
+"367","Confirmed","South-East Asia Region",2020-03-31,4215
+"368","Confirmed","South-East Asia Region",2020-04-01,5175
+"369","Confirmed","South-East Asia Region",2020-04-02,5324
+"370","Confirmed","South-East Asia Region",2020-04-03,5881
+"371","Deaths","South-East Asia Region",2020-01-21,0
+"372","Deaths","South-East Asia Region",2020-01-22,0
+"373","Deaths","South-East Asia Region",2020-01-23,0
+"374","Deaths","South-East Asia Region",2020-01-24,0
+"375","Deaths","South-East Asia Region",2020-01-25,0
+"376","Deaths","South-East Asia Region",2020-01-26,0
+"377","Deaths","South-East Asia Region",2020-01-27,0
+"378","Deaths","South-East Asia Region",2020-01-28,0
+"379","Deaths","South-East Asia Region",2020-01-29,0
+"380","Deaths","South-East Asia Region",2020-01-30,0
+"381","Deaths","South-East Asia Region",2020-01-31,0
+"382","Deaths","South-East Asia Region",2020-02-01,0
+"383","Deaths","South-East Asia Region",2020-02-02,0
+"384","Deaths","South-East Asia Region",2020-02-03,0
+"385","Deaths","South-East Asia Region",2020-02-04,0
+"386","Deaths","South-East Asia Region",2020-02-05,0
+"387","Deaths","South-East Asia Region",2020-02-06,0
+"388","Deaths","South-East Asia Region",2020-02-07,0
+"389","Deaths","South-East Asia Region",2020-02-08,0
+"390","Deaths","South-East Asia Region",2020-02-09,0
+"391","Deaths","South-East Asia Region",2020-02-10,0
+"392","Deaths","South-East Asia Region",2020-02-11,0
+"393","Deaths","South-East Asia Region",2020-02-12,0
+"394","Deaths","South-East Asia Region",2020-02-13,0
+"395","Deaths","South-East Asia Region",2020-02-14,0
+"396","Deaths","South-East Asia Region",2020-02-15,0
+"397","Deaths","South-East Asia Region",2020-02-16,0
+"398","Deaths","South-East Asia Region",2020-02-17,0
+"399","Deaths","South-East Asia Region",2020-02-18,0
+"400","Deaths","South-East Asia Region",2020-02-19,0
+"401","Deaths","South-East Asia Region",2020-02-20,0
+"402","Deaths","South-East Asia Region",2020-02-21,0
+"403","Deaths","South-East Asia Region",2020-02-22,0
+"404","Deaths","South-East Asia Region",2020-02-23,0
+"405","Deaths","South-East Asia Region",2020-02-24,0
+"406","Deaths","South-East Asia Region",2020-02-25,0
+"407","Deaths","South-East Asia Region",2020-02-26,0
+"408","Deaths","South-East Asia Region",2020-02-27,0
+"409","Deaths","South-East Asia Region",2020-02-28,0
+"410","Deaths","South-East Asia Region",2020-02-29,0
+"411","Deaths","South-East Asia Region",2020-03-01,0
+"412","Deaths","South-East Asia Region",2020-03-02,0
+"413","Deaths","South-East Asia Region",2020-03-03,0
+"414","Deaths","South-East Asia Region",2020-03-04,0
+"415","Deaths","South-East Asia Region",2020-03-05,0
+"416","Deaths","South-East Asia Region",2020-03-06,0
+"417","Deaths","South-East Asia Region",2020-03-07,0
+"418","Deaths","South-East Asia Region",2020-03-08,0
+"419","Deaths","South-East Asia Region",2020-03-09,0
+"420","Deaths","South-East Asia Region",2020-03-10,0
+"421","Deaths","South-East Asia Region",2020-03-11,0
+"422","Deaths","South-East Asia Region",2020-03-12,0
+"423","Deaths","South-East Asia Region",2020-03-13,0
+"424","Deaths","South-East Asia Region",2020-03-14,0
+"425","Deaths","South-East Asia Region",2020-03-15,0
+"426","Deaths","South-East Asia Region",2020-03-16,0
+"427","Deaths","South-East Asia Region",2020-03-17,9
+"428","Deaths","South-East Asia Region",2020-03-18,9
+"429","Deaths","South-East Asia Region",2020-03-19,23
+"430","Deaths","South-East Asia Region",2020-03-20,31
+"431","Deaths","South-East Asia Region",2020-03-21,38
+"432","Deaths","South-East Asia Region",2020-03-22,45
+"433","Deaths","South-East Asia Region",2020-03-23,58
+"434","Deaths","South-East Asia Region",2020-03-24,65
+"435","Deaths","South-East Asia Region",2020-03-25,72
+"436","Deaths","South-East Asia Region",2020-03-26,79
+"437","Deaths","South-East Asia Region",2020-03-27,105
+"438","Deaths","South-East Asia Region",2020-03-28,114
+"439","Deaths","South-East Asia Region",2020-03-29,139
+"440","Deaths","South-East Asia Region",2020-03-30,158
+"441","Deaths","South-East Asia Region",2020-03-31,166
+"442","Deaths","South-East Asia Region",2020-04-01,195
+"443","Deaths","South-East Asia Region",2020-04-02,216
+"444","Deaths","South-East Asia Region",2020-04-03,245
+"445","Confirmed","Eastern Mediterranean Region",2020-01-21,0
+"446","Confirmed","Eastern Mediterranean Region",2020-01-22,0
+"447","Confirmed","Eastern Mediterranean Region",2020-01-23,0
+"448","Confirmed","Eastern Mediterranean Region",2020-01-24,0
+"449","Confirmed","Eastern Mediterranean Region",2020-01-25,0
+"450","Confirmed","Eastern Mediterranean Region",2020-01-26,0
+"451","Confirmed","Eastern Mediterranean Region",2020-01-27,0
+"452","Confirmed","Eastern Mediterranean Region",2020-01-28,0
+"453","Confirmed","Eastern Mediterranean Region",2020-01-29,0
+"454","Confirmed","Eastern Mediterranean Region",2020-01-30,0
+"455","Confirmed","Eastern Mediterranean Region",2020-01-31,0
+"456","Confirmed","Eastern Mediterranean Region",2020-02-01,0
+"457","Confirmed","Eastern Mediterranean Region",2020-02-02,0
+"458","Confirmed","Eastern Mediterranean Region",2020-02-03,0
+"459","Confirmed","Eastern Mediterranean Region",2020-02-04,0
+"460","Confirmed","Eastern Mediterranean Region",2020-02-05,0
+"461","Confirmed","Eastern Mediterranean Region",2020-02-06,0
+"462","Confirmed","Eastern Mediterranean Region",2020-02-07,0
+"463","Confirmed","Eastern Mediterranean Region",2020-02-08,0
+"464","Confirmed","Eastern Mediterranean Region",2020-02-09,0
+"465","Confirmed","Eastern Mediterranean Region",2020-02-10,0
+"466","Confirmed","Eastern Mediterranean Region",2020-02-11,0
+"467","Confirmed","Eastern Mediterranean Region",2020-02-12,0
+"468","Confirmed","Eastern Mediterranean Region",2020-02-13,0
+"469","Confirmed","Eastern Mediterranean Region",2020-02-14,0
+"470","Confirmed","Eastern Mediterranean Region",2020-02-15,0
+"471","Confirmed","Eastern Mediterranean Region",2020-02-16,0
+"472","Confirmed","Eastern Mediterranean Region",2020-02-17,0
+"473","Confirmed","Eastern Mediterranean Region",2020-02-18,0
+"474","Confirmed","Eastern Mediterranean Region",2020-02-19,0
+"475","Confirmed","Eastern Mediterranean Region",2020-02-20,0
+"476","Confirmed","Eastern Mediterranean Region",2020-02-21,0
+"477","Confirmed","Eastern Mediterranean Region",2020-02-22,0
+"478","Confirmed","Eastern Mediterranean Region",2020-02-23,0
+"479","Confirmed","Eastern Mediterranean Region",2020-02-24,0
+"480","Confirmed","Eastern Mediterranean Region",2020-02-25,0
+"481","Confirmed","Eastern Mediterranean Region",2020-02-26,0
+"482","Confirmed","Eastern Mediterranean Region",2020-02-27,0
+"483","Confirmed","Eastern Mediterranean Region",2020-02-28,0
+"484","Confirmed","Eastern Mediterranean Region",2020-02-29,0
+"485","Confirmed","Eastern Mediterranean Region",2020-03-01,0
+"486","Confirmed","Eastern Mediterranean Region",2020-03-02,0
+"487","Confirmed","Eastern Mediterranean Region",2020-03-03,0
+"488","Confirmed","Eastern Mediterranean Region",2020-03-04,0
+"489","Confirmed","Eastern Mediterranean Region",2020-03-05,0
+"490","Confirmed","Eastern Mediterranean Region",2020-03-06,0
+"491","Confirmed","Eastern Mediterranean Region",2020-03-07,0
+"492","Confirmed","Eastern Mediterranean Region",2020-03-08,0
+"493","Confirmed","Eastern Mediterranean Region",2020-03-09,0
+"494","Confirmed","Eastern Mediterranean Region",2020-03-10,0
+"495","Confirmed","Eastern Mediterranean Region",2020-03-11,0
+"496","Confirmed","Eastern Mediterranean Region",2020-03-12,0
+"497","Confirmed","Eastern Mediterranean Region",2020-03-13,0
+"498","Confirmed","Eastern Mediterranean Region",2020-03-14,0
+"499","Confirmed","Eastern Mediterranean Region",2020-03-15,0
+"500","Confirmed","Eastern Mediterranean Region",2020-03-16,0
+"501","Confirmed","Eastern Mediterranean Region",2020-03-17,16786
+"502","Confirmed","Eastern Mediterranean Region",2020-03-18,18060
+"503","Confirmed","Eastern Mediterranean Region",2020-03-19,19518
+"504","Confirmed","Eastern Mediterranean Region",2020-03-20,20759
+"505","Confirmed","Eastern Mediterranean Region",2020-03-21,22355
+"506","Confirmed","Eastern Mediterranean Region",2020-03-22,23669
+"507","Confirmed","Eastern Mediterranean Region",2020-03-23,25375
+"508","Confirmed","Eastern Mediterranean Region",2020-03-24,27215
+"509","Confirmed","Eastern Mediterranean Region",2020-03-25,29631
+"510","Confirmed","Eastern Mediterranean Region",2020-03-26,32442
+"511","Confirmed","Eastern Mediterranean Region",2020-03-27,35249
+"512","Confirmed","Eastern Mediterranean Region",2020-03-28,38931
+"513","Confirmed","Eastern Mediterranean Region",2020-03-29,42777
+"514","Confirmed","Eastern Mediterranean Region",2020-03-30,46329
+"515","Confirmed","Eastern Mediterranean Region",2020-03-31,50349
+"516","Confirmed","Eastern Mediterranean Region",2020-04-01,54281
+"517","Confirmed","Eastern Mediterranean Region",2020-04-02,58168
+"518","Confirmed","Eastern Mediterranean Region",2020-04-03,62236
+"519","Deaths","Eastern Mediterranean Region",2020-01-21,0
+"520","Deaths","Eastern Mediterranean Region",2020-01-22,0
+"521","Deaths","Eastern Mediterranean Region",2020-01-23,0
+"522","Deaths","Eastern Mediterranean Region",2020-01-24,0
+"523","Deaths","Eastern Mediterranean Region",2020-01-25,0
+"524","Deaths","Eastern Mediterranean Region",2020-01-26,0
+"525","Deaths","Eastern Mediterranean Region",2020-01-27,0
+"526","Deaths","Eastern Mediterranean Region",2020-01-28,0
+"527","Deaths","Eastern Mediterranean Region",2020-01-29,0
+"528","Deaths","Eastern Mediterranean Region",2020-01-30,0
+"529","Deaths","Eastern Mediterranean Region",2020-01-31,0
+"530","Deaths","Eastern Mediterranean Region",2020-02-01,0
+"531","Deaths","Eastern Mediterranean Region",2020-02-02,0
+"532","Deaths","Eastern Mediterranean Region",2020-02-03,0
+"533","Deaths","Eastern Mediterranean Region",2020-02-04,0
+"534","Deaths","Eastern Mediterranean Region",2020-02-05,0
+"535","Deaths","Eastern Mediterranean Region",2020-02-06,0
+"536","Deaths","Eastern Mediterranean Region",2020-02-07,0
+"537","Deaths","Eastern Mediterranean Region",2020-02-08,0
+"538","Deaths","Eastern Mediterranean Region",2020-02-09,0
+"539","Deaths","Eastern Mediterranean Region",2020-02-10,0
+"540","Deaths","Eastern Mediterranean Region",2020-02-11,0
+"541","Deaths","Eastern Mediterranean Region",2020-02-12,0
+"542","Deaths","Eastern Mediterranean Region",2020-02-13,0
+"543","Deaths","Eastern Mediterranean Region",2020-02-14,0
+"544","Deaths","Eastern Mediterranean Region",2020-02-15,0
+"545","Deaths","Eastern Mediterranean Region",2020-02-16,0
+"546","Deaths","Eastern Mediterranean Region",2020-02-17,0
+"547","Deaths","Eastern Mediterranean Region",2020-02-18,0
+"548","Deaths","Eastern Mediterranean Region",2020-02-19,0
+"549","Deaths","Eastern Mediterranean Region",2020-02-20,0
+"550","Deaths","Eastern Mediterranean Region",2020-02-21,0
+"551","Deaths","Eastern Mediterranean Region",2020-02-22,0
+"552","Deaths","Eastern Mediterranean Region",2020-02-23,0
+"553","Deaths","Eastern Mediterranean Region",2020-02-24,0
+"554","Deaths","Eastern Mediterranean Region",2020-02-25,0
+"555","Deaths","Eastern Mediterranean Region",2020-02-26,0
+"556","Deaths","Eastern Mediterranean Region",2020-02-27,0
+"557","Deaths","Eastern Mediterranean Region",2020-02-28,0
+"558","Deaths","Eastern Mediterranean Region",2020-02-29,0
+"559","Deaths","Eastern Mediterranean Region",2020-03-01,0
+"560","Deaths","Eastern Mediterranean Region",2020-03-02,0
+"561","Deaths","Eastern Mediterranean Region",2020-03-03,0
+"562","Deaths","Eastern Mediterranean Region",2020-03-04,0
+"563","Deaths","Eastern Mediterranean Region",2020-03-05,0
+"564","Deaths","Eastern Mediterranean Region",2020-03-06,0
+"565","Deaths","Eastern Mediterranean Region",2020-03-07,0
+"566","Deaths","Eastern Mediterranean Region",2020-03-08,0
+"567","Deaths","Eastern Mediterranean Region",2020-03-09,0
+"568","Deaths","Eastern Mediterranean Region",2020-03-10,0
+"569","Deaths","Eastern Mediterranean Region",2020-03-11,0
+"570","Deaths","Eastern Mediterranean Region",2020-03-12,0
+"571","Deaths","Eastern Mediterranean Region",2020-03-13,0
+"572","Deaths","Eastern Mediterranean Region",2020-03-14,0
+"573","Deaths","Eastern Mediterranean Region",2020-03-15,0
+"574","Deaths","Eastern Mediterranean Region",2020-03-16,0
+"575","Deaths","Eastern Mediterranean Region",2020-03-17,873
+"576","Deaths","Eastern Mediterranean Region",2020-03-18,1010
+"577","Deaths","Eastern Mediterranean Region",2020-03-19,1161
+"578","Deaths","Eastern Mediterranean Region",2020-03-20,1312
+"579","Deaths","Eastern Mediterranean Region",2020-03-21,1466
+"580","Deaths","Eastern Mediterranean Region",2020-03-22,1596
+"581","Deaths","Eastern Mediterranean Region",2020-03-23,1741
+"582","Deaths","Eastern Mediterranean Region",2020-03-24,1877
+"583","Deaths","Eastern Mediterranean Region",2020-03-25,2008
+"584","Deaths","Eastern Mediterranean Region",2020-03-26,2162
+"585","Deaths","Eastern Mediterranean Region",2020-03-27,2336
+"586","Deaths","Eastern Mediterranean Region",2020-03-28,2508
+"587","Deaths","Eastern Mediterranean Region",2020-03-29,2668
+"588","Deaths","Eastern Mediterranean Region",2020-03-30,2813
+"589","Deaths","Eastern Mediterranean Region",2020-03-31,2954
+"590","Deaths","Eastern Mediterranean Region",2020-04-01,3115
+"591","Deaths","Eastern Mediterranean Region",2020-04-02,3279
+"592","Deaths","Eastern Mediterranean Region",2020-04-03,3438
+"593","Confirmed","Region of the Americas",2020-01-21,0
+"594","Confirmed","Region of the Americas",2020-01-22,0
+"595","Confirmed","Region of the Americas",2020-01-23,0
+"596","Confirmed","Region of the Americas",2020-01-24,0
+"597","Confirmed","Region of the Americas",2020-01-25,0
+"598","Confirmed","Region of the Americas",2020-01-26,0
+"599","Confirmed","Region of the Americas",2020-01-27,0
+"600","Confirmed","Region of the Americas",2020-01-28,0
+"601","Confirmed","Region of the Americas",2020-01-29,0
+"602","Confirmed","Region of the Americas",2020-01-30,0
+"603","Confirmed","Region of the Americas",2020-01-31,0
+"604","Confirmed","Region of the Americas",2020-02-01,0
+"605","Confirmed","Region of the Americas",2020-02-02,0
+"606","Confirmed","Region of the Americas",2020-02-03,0
+"607","Confirmed","Region of the Americas",2020-02-04,0
+"608","Confirmed","Region of the Americas",2020-02-05,0
+"609","Confirmed","Region of the Americas",2020-02-06,0
+"610","Confirmed","Region of the Americas",2020-02-07,0
+"611","Confirmed","Region of the Americas",2020-02-08,0
+"612","Confirmed","Region of the Americas",2020-02-09,0
+"613","Confirmed","Region of the Americas",2020-02-10,0
+"614","Confirmed","Region of the Americas",2020-02-11,0
+"615","Confirmed","Region of the Americas",2020-02-12,0
+"616","Confirmed","Region of the Americas",2020-02-13,0
+"617","Confirmed","Region of the Americas",2020-02-14,0
+"618","Confirmed","Region of the Americas",2020-02-15,0
+"619","Confirmed","Region of the Americas",2020-02-16,0
+"620","Confirmed","Region of the Americas",2020-02-17,0
+"621","Confirmed","Region of the Americas",2020-02-18,0
+"622","Confirmed","Region of the Americas",2020-02-19,0
+"623","Confirmed","Region of the Americas",2020-02-20,0
+"624","Confirmed","Region of the Americas",2020-02-21,0
+"625","Confirmed","Region of the Americas",2020-02-22,0
+"626","Confirmed","Region of the Americas",2020-02-23,0
+"627","Confirmed","Region of the Americas",2020-02-24,0
+"628","Confirmed","Region of the Americas",2020-02-25,0
+"629","Confirmed","Region of the Americas",2020-02-26,0
+"630","Confirmed","Region of the Americas",2020-02-27,0
+"631","Confirmed","Region of the Americas",2020-02-28,0
+"632","Confirmed","Region of the Americas",2020-02-29,0
+"633","Confirmed","Region of the Americas",2020-03-01,0
+"634","Confirmed","Region of the Americas",2020-03-02,0
+"635","Confirmed","Region of the Americas",2020-03-03,0
+"636","Confirmed","Region of the Americas",2020-03-04,0
+"637","Confirmed","Region of the Americas",2020-03-05,0
+"638","Confirmed","Region of the Americas",2020-03-06,0
+"639","Confirmed","Region of the Americas",2020-03-07,0
+"640","Confirmed","Region of the Americas",2020-03-08,0
+"641","Confirmed","Region of the Americas",2020-03-09,0
+"642","Confirmed","Region of the Americas",2020-03-10,0
+"643","Confirmed","Region of the Americas",2020-03-11,0
+"644","Confirmed","Region of the Americas",2020-03-12,0
+"645","Confirmed","Region of the Americas",2020-03-13,0
+"646","Confirmed","Region of the Americas",2020-03-14,0
+"647","Confirmed","Region of the Americas",2020-03-15,0
+"648","Confirmed","Region of the Americas",2020-03-16,0
+"649","Confirmed","Region of the Americas",2020-03-17,4910
+"650","Confirmed","Region of the Americas",2020-03-18,4979
+"651","Confirmed","Region of the Americas",2020-03-19,9144
+"652","Confirmed","Region of the Americas",2020-03-20,13271
+"653","Confirmed","Region of the Americas",2020-03-21,18877
+"654","Confirmed","Region of the Americas",2020-03-22,19685
+"655","Confirmed","Region of the Americas",2020-03-23,37016
+"656","Confirmed","Region of the Americas",2020-03-24,49444
+"657","Confirmed","Region of the Americas",2020-03-25,60834
+"658","Confirmed","Region of the Americas",2020-03-26,75712
+"659","Confirmed","Region of the Americas",2020-03-27,81137
+"660","Confirmed","Region of the Americas",2020-03-28,100314
+"661","Confirmed","Region of the Americas",2020-03-29,120792
+"662","Confirmed","Region of the Americas",2020-03-30,142081
+"663","Confirmed","Region of the Americas",2020-03-31,163014
+"664","Confirmed","Region of the Americas",2020-04-01,188751
+"665","Confirmed","Region of the Americas",2020-04-02,216912
+"666","Confirmed","Region of the Americas",2020-04-03,247473
+"667","Deaths","Region of the Americas",2020-01-21,0
+"668","Deaths","Region of the Americas",2020-01-22,0
+"669","Deaths","Region of the Americas",2020-01-23,0
+"670","Deaths","Region of the Americas",2020-01-24,0
+"671","Deaths","Region of the Americas",2020-01-25,0
+"672","Deaths","Region of the Americas",2020-01-26,0
+"673","Deaths","Region of the Americas",2020-01-27,0
+"674","Deaths","Region of the Americas",2020-01-28,0
+"675","Deaths","Region of the Americas",2020-01-29,0
+"676","Deaths","Region of the Americas",2020-01-30,0
+"677","Deaths","Region of the Americas",2020-01-31,0
+"678","Deaths","Region of the Americas",2020-02-01,0
+"679","Deaths","Region of the Americas",2020-02-02,0
+"680","Deaths","Region of the Americas",2020-02-03,0
+"681","Deaths","Region of the Americas",2020-02-04,0
+"682","Deaths","Region of the Americas",2020-02-05,0
+"683","Deaths","Region of the Americas",2020-02-06,0
+"684","Deaths","Region of the Americas",2020-02-07,0
+"685","Deaths","Region of the Americas",2020-02-08,0
+"686","Deaths","Region of the Americas",2020-02-09,0
+"687","Deaths","Region of the Americas",2020-02-10,0
+"688","Deaths","Region of the Americas",2020-02-11,0
+"689","Deaths","Region of the Americas",2020-02-12,0
+"690","Deaths","Region of the Americas",2020-02-13,0
+"691","Deaths","Region of the Americas",2020-02-14,0
+"692","Deaths","Region of the Americas",2020-02-15,0
+"693","Deaths","Region of the Americas",2020-02-16,0
+"694","Deaths","Region of the Americas",2020-02-17,0
+"695","Deaths","Region of the Americas",2020-02-18,0
+"696","Deaths","Region of the Americas",2020-02-19,0
+"697","Deaths","Region of the Americas",2020-02-20,0
+"698","Deaths","Region of the Americas",2020-02-21,0
+"699","Deaths","Region of the Americas",2020-02-22,0
+"700","Deaths","Region of the Americas",2020-02-23,0
+"701","Deaths","Region of the Americas",2020-02-24,0
+"702","Deaths","Region of the Americas",2020-02-25,0
+"703","Deaths","Region of the Americas",2020-02-26,0
+"704","Deaths","Region of the Americas",2020-02-27,0
+"705","Deaths","Region of the Americas",2020-02-28,0
+"706","Deaths","Region of the Americas",2020-02-29,0
+"707","Deaths","Region of the Americas",2020-03-01,0
+"708","Deaths","Region of the Americas",2020-03-02,0
+"709","Deaths","Region of the Americas",2020-03-03,0
+"710","Deaths","Region of the Americas",2020-03-04,0
+"711","Deaths","Region of the Americas",2020-03-05,0
+"712","Deaths","Region of the Americas",2020-03-06,0
+"713","Deaths","Region of the Americas",2020-03-07,0
+"714","Deaths","Region of the Americas",2020-03-08,0
+"715","Deaths","Region of the Americas",2020-03-09,0
+"716","Deaths","Region of the Americas",2020-03-10,0
+"717","Deaths","Region of the Americas",2020-03-11,0
+"718","Deaths","Region of the Americas",2020-03-12,0
+"719","Deaths","Region of the Americas",2020-03-13,0
+"720","Deaths","Region of the Americas",2020-03-14,0
+"721","Deaths","Region of the Americas",2020-03-15,0
+"722","Deaths","Region of the Americas",2020-03-16,0
+"723","Deaths","Region of the Americas",2020-03-17,68
+"724","Deaths","Region of the Americas",2020-03-18,68
+"725","Deaths","Region of the Americas",2020-03-19,119
+"726","Deaths","Region of the Americas",2020-03-20,178
+"727","Deaths","Region of the Americas",2020-03-21,235
+"728","Deaths","Region of the Americas",2020-03-22,252
+"729","Deaths","Region of the Americas",2020-03-23,465
+"730","Deaths","Region of the Americas",2020-03-24,565
+"731","Deaths","Region of the Americas",2020-03-25,813
+"732","Deaths","Region of the Americas",2020-03-26,1065
+"733","Deaths","Region of the Americas",2020-03-27,1176
+"734","Deaths","Region of the Americas",2020-03-28,1485
+"735","Deaths","Region of the Americas",2020-03-29,1973
+"736","Deaths","Region of the Americas",2020-03-30,2457
+"737","Deaths","Region of the Americas",2020-03-31,2836
+"738","Deaths","Region of the Americas",2020-04-01,3400
+"739","Deaths","Region of the Americas",2020-04-02,4565
+"740","Deaths","Region of the Americas",2020-04-03,5600
+"741","Confirmed","African Region",2020-01-21,0
+"742","Confirmed","African Region",2020-01-22,0
+"743","Confirmed","African Region",2020-01-23,0
+"744","Confirmed","African Region",2020-01-24,0
+"745","Confirmed","African Region",2020-01-25,0
+"746","Confirmed","African Region",2020-01-26,0
+"747","Confirmed","African Region",2020-01-27,0
+"748","Confirmed","African Region",2020-01-28,0
+"749","Confirmed","African Region",2020-01-29,0
+"750","Confirmed","African Region",2020-01-30,0
+"751","Confirmed","African Region",2020-01-31,0
+"752","Confirmed","African Region",2020-02-01,0
+"753","Confirmed","African Region",2020-02-02,0
+"754","Confirmed","African Region",2020-02-03,0
+"755","Confirmed","African Region",2020-02-04,0
+"756","Confirmed","African Region",2020-02-05,0
+"757","Confirmed","African Region",2020-02-06,0
+"758","Confirmed","African Region",2020-02-07,0
+"759","Confirmed","African Region",2020-02-08,0
+"760","Confirmed","African Region",2020-02-09,0
+"761","Confirmed","African Region",2020-02-10,0
+"762","Confirmed","African Region",2020-02-11,0
+"763","Confirmed","African Region",2020-02-12,0
+"764","Confirmed","African Region",2020-02-13,0
+"765","Confirmed","African Region",2020-02-14,0
+"766","Confirmed","African Region",2020-02-15,0
+"767","Confirmed","African Region",2020-02-16,0
+"768","Confirmed","African Region",2020-02-17,0
+"769","Confirmed","African Region",2020-02-18,0
+"770","Confirmed","African Region",2020-02-19,0
+"771","Confirmed","African Region",2020-02-20,0
+"772","Confirmed","African Region",2020-02-21,0
+"773","Confirmed","African Region",2020-02-22,0
+"774","Confirmed","African Region",2020-02-23,0
+"775","Confirmed","African Region",2020-02-24,0
+"776","Confirmed","African Region",2020-02-25,0
+"777","Confirmed","African Region",2020-02-26,0
+"778","Confirmed","African Region",2020-02-27,0
+"779","Confirmed","African Region",2020-02-28,0
+"780","Confirmed","African Region",2020-02-29,0
+"781","Confirmed","African Region",2020-03-01,0
+"782","Confirmed","African Region",2020-03-02,0
+"783","Confirmed","African Region",2020-03-03,0
+"784","Confirmed","African Region",2020-03-04,0
+"785","Confirmed","African Region",2020-03-05,0
+"786","Confirmed","African Region",2020-03-06,0
+"787","Confirmed","African Region",2020-03-07,0
+"788","Confirmed","African Region",2020-03-08,0
+"789","Confirmed","African Region",2020-03-09,0
+"790","Confirmed","African Region",2020-03-10,0
+"791","Confirmed","African Region",2020-03-11,0
+"792","Confirmed","African Region",2020-03-12,0
+"793","Confirmed","African Region",2020-03-13,0
+"794","Confirmed","African Region",2020-03-14,0
+"795","Confirmed","African Region",2020-03-15,0
+"796","Confirmed","African Region",2020-03-16,0
+"797","Confirmed","African Region",2020-03-17,228
+"798","Confirmed","African Region",2020-03-18,233
+"799","Confirmed","African Region",2020-03-19,367
+"800","Confirmed","African Region",2020-03-20,473
+"801","Confirmed","African Region",2020-03-21,572
+"802","Confirmed","African Region",2020-03-22,739
+"803","Confirmed","African Region",2020-03-23,990
+"804","Confirmed","African Region",2020-03-24,1305
+"805","Confirmed","African Region",2020-03-25,1664
+"806","Confirmed","African Region",2020-03-26,1937
+"807","Confirmed","African Region",2020-03-27,2419
+"808","Confirmed","African Region",2020-03-28,2831
+"809","Confirmed","African Region",2020-03-29,3004
+"810","Confirmed","African Region",2020-03-30,3486
+"811","Confirmed","African Region",2020-03-31,3786
+"812","Confirmed","African Region",2020-04-01,4073
+"813","Confirmed","African Region",2020-04-02,4702
+"814","Confirmed","African Region",2020-04-03,5263
+"815","Deaths","African Region",2020-01-21,0
+"816","Deaths","African Region",2020-01-22,0
+"817","Deaths","African Region",2020-01-23,0
+"818","Deaths","African Region",2020-01-24,0
+"819","Deaths","African Region",2020-01-25,0
+"820","Deaths","African Region",2020-01-26,0
+"821","Deaths","African Region",2020-01-27,0
+"822","Deaths","African Region",2020-01-28,0
+"823","Deaths","African Region",2020-01-29,0
+"824","Deaths","African Region",2020-01-30,0
+"825","Deaths","African Region",2020-01-31,0
+"826","Deaths","African Region",2020-02-01,0
+"827","Deaths","African Region",2020-02-02,0
+"828","Deaths","African Region",2020-02-03,0
+"829","Deaths","African Region",2020-02-04,0
+"830","Deaths","African Region",2020-02-05,0
+"831","Deaths","African Region",2020-02-06,0
+"832","Deaths","African Region",2020-02-07,0
+"833","Deaths","African Region",2020-02-08,0
+"834","Deaths","African Region",2020-02-09,0
+"835","Deaths","African Region",2020-02-10,0
+"836","Deaths","African Region",2020-02-11,0
+"837","Deaths","African Region",2020-02-12,0
+"838","Deaths","African Region",2020-02-13,0
+"839","Deaths","African Region",2020-02-14,0
+"840","Deaths","African Region",2020-02-15,0
+"841","Deaths","African Region",2020-02-16,0
+"842","Deaths","African Region",2020-02-17,0
+"843","Deaths","African Region",2020-02-18,0
+"844","Deaths","African Region",2020-02-19,0
+"845","Deaths","African Region",2020-02-20,0
+"846","Deaths","African Region",2020-02-21,0
+"847","Deaths","African Region",2020-02-22,0
+"848","Deaths","African Region",2020-02-23,0
+"849","Deaths","African Region",2020-02-24,0
+"850","Deaths","African Region",2020-02-25,0
+"851","Deaths","African Region",2020-02-26,0
+"852","Deaths","African Region",2020-02-27,0
+"853","Deaths","African Region",2020-02-28,0
+"854","Deaths","African Region",2020-02-29,0
+"855","Deaths","African Region",2020-03-01,0
+"856","Deaths","African Region",2020-03-02,0
+"857","Deaths","African Region",2020-03-03,0
+"858","Deaths","African Region",2020-03-04,0
+"859","Deaths","African Region",2020-03-05,0
+"860","Deaths","African Region",2020-03-06,0
+"861","Deaths","African Region",2020-03-07,0
+"862","Deaths","African Region",2020-03-08,0
+"863","Deaths","African Region",2020-03-09,0
+"864","Deaths","African Region",2020-03-10,0
+"865","Deaths","African Region",2020-03-11,0
+"866","Deaths","African Region",2020-03-12,0
+"867","Deaths","African Region",2020-03-13,0
+"868","Deaths","African Region",2020-03-14,0
+"869","Deaths","African Region",2020-03-15,0
+"870","Deaths","African Region",2020-03-16,0
+"871","Deaths","African Region",2020-03-17,4
+"872","Deaths","African Region",2020-03-18,4
+"873","Deaths","African Region",2020-03-19,7
+"874","Deaths","African Region",2020-03-20,8
+"875","Deaths","African Region",2020-03-21,12
+"876","Deaths","African Region",2020-03-22,20
+"877","Deaths","African Region",2020-03-23,23
+"878","Deaths","African Region",2020-03-24,26
+"879","Deaths","African Region",2020-03-25,29
+"880","Deaths","African Region",2020-03-26,31
+"881","Deaths","African Region",2020-03-27,39
+"882","Deaths","African Region",2020-03-28,47
+"883","Deaths","African Region",2020-03-29,51
+"884","Deaths","African Region",2020-03-30,60
+"885","Deaths","African Region",2020-03-31,77
+"886","Deaths","African Region",2020-04-01,91
+"887","Deaths","African Region",2020-04-02,127
+"888","Deaths","African Region",2020-04-03,164

@@ -1,0 +1,183 @@
+"","Country.Region","Date","Type"
+"1","Afghanistan",2020-03-24,1
+"2","Albania",2020-03-08,1
+"3","Algeria",2020-03-24,1
+"4","Andorra",2020-03-16,1
+"5","Angola",2020-03-24,1
+"6","Antigua and Barbuda",NA,0
+"7","Argentina",2020-03-20,1
+"8","Armenia",2020-03-24,1
+"9","Australia",2020-03-24,1
+"10","Austria",2020-03-16,1
+"11","Azerbaijan",2020-03-02,1
+"12","Bahamas",2020-03-20,1
+"13","Bahrain",2020-02-25,1
+"14","Bangladesh",2020-03-19,1
+"15","Barbados",2020-03-28,1
+"16","Belarus",NA,0
+"17","Belgium",2020-03-17,1
+"18","Belize",2020-03-30,1
+"19","Benin",NA,0
+"20","Bhutan",2020-03-06,1
+"21","Bolivia",2020-03-12,1
+"22","Bosnia and Herzegovina",2020-03-11,1
+"23","Botswana",2020-04-02,1
+"24","Brazil",NA,0
+"25","Brunei",NA,0
+"26","Bulgaria",2020-03-13,1
+"27","Burkina Faso",2020-03-21,1
+"28","Burma",NA,0
+"29","Cabo Verde",NA,0
+"30","Cambodia",2020-03-28,1
+"31","Cameroon",NA,0
+"32","Canada",2020-03-12,1
+"33","Central African Republic",NA,0
+"34","Chad",NA,0
+"35","Chile",2020-03-26,1
+"36","China",2020-01-23,1
+"37","Colombia",2020-03-25,1
+"38","Congo (Brazzaville)",NA,0
+"39","Congo (Kinshasa)",2020-03-19,1
+"40","Costa Rica",2020-03-15,1
+"41","Cote dIvoire",2020-03-29,1
+"42","Croatia",2020-03-22,1
+"43","Cuba",NA,0
+"44","Cyprus",2020-03-25,1
+"45","Czechia",2020-03-16,1
+"46","Denmark",2020-03-11,1
+"47","Diamond Princess",NA,0
+"48","Djibouti",NA,0
+"49","Dominica",NA,0
+"50","Dominican Republic",2020-03-17,1
+"51","Ecuador",2020-03-24,1
+"52","Egypt",2020-03-24,1
+"53","El Salvador",2020-03-11,1
+"54","Equatorial Guinea",NA,0
+"55","Eritrea",NA,0
+"56","Estonia",2020-03-13,1
+"57","Eswatini",NA,0
+"58","Ethiopia",2020-03-16,1
+"59","Fiji",2020-03-20,1
+"60","Finland",2020-03-27,1
+"61","France",2020-03-16,1
+"62","Gabon",NA,0
+"63","Gambia",2020-03-27,1
+"64","Georgia",2020-03-22,1
+"65","Germany",2020-03-20,1
+"66","Ghana",2020-03-15,1
+"67","Greece",2020-03-18,1
+"68","Greenland",NA,0
+"69","Grenada",NA,0
+"70","Guatemala",NA,0
+"71","Guinea",NA,0
+"72","Guinea-Bissau",NA,0
+"73","Guyana",NA,0
+"74","Haiti",NA,0
+"75","Honduras",2020-03-20,1
+"76","Hungary",2020-03-16,1
+"77","Iceland",2020-03-16,1
+"78","India",2020-03-24,1
+"79","Indonesia",2020-03-15,1
+"80","Iran",2020-03-15,1
+"81","Iraq",2020-03-22,1
+"82","Ireland",2020-03-12,1
+"83","Israel",2020-03-12,1
+"84","Italy",2020-03-11,1
+"85","Jamaica",2020-03-12,1
+"86","Japan",2020-02-27,1
+"87","Jersey",2020-03-18,1
+"88","Jordan",2020-03-21,1
+"89","Kazakhstan",2020-03-15,1
+"90","Kenya",2020-03-15,1
+"91","Korea, South",2020-02-23,1
+"92","Kosovo",2020-03-25,1
+"93","Kuwait",2020-03-16,1
+"94","Kyrgyzstan",2020-03-24,1
+"95","Laos",NA,0
+"96","Latvia",2020-03-13,1
+"97","Lebanon",2020-03-16,1
+"98","Liberia",NA,0
+"99","Libya",NA,0
+"100","Liechtenstein",2020-03-20,1
+"101","Lithuania",2020-03-16,1
+"102","Luxembourg",2020-03-16,1
+"103","Madagascar",2020-03-17,1
+"104","Malaysia",2020-03-18,1
+"105","Maldives",2020-03-11,1
+"106","Mali",2020-03-18,1
+"107","Malta",2020-03-12,1
+"108","Mauritania",NA,0
+"109","Mauritius",2020-03-17,1
+"110","Mexico",2020-03-14,1
+"111","Moldova",2020-03-11,1
+"112","Monaco",2020-03-17,1
+"113","Mongolia",2020-03-10,1
+"114","Montenegro",2020-03-24,1
+"115","Morocco",2020-03-16,1
+"116","Mozambique",NA,0
+"117","MS Zaandam",NA,0
+"118","Namibia",2020-03-14,1
+"119","Nepal",2020-03-24,1
+"120","Netherlands",2020-03-16,1
+"121","New Zealand",2020-03-25,1
+"122","Nicaragua",NA,0
+"123","Niger",NA,0
+"124","Nigeria",2020-03-25,1
+"125","North Macedonia",2020-03-18,1
+"126","Norway",2020-03-12,1
+"127","Oman",2020-03-29,1
+"128","Pakistan",2020-03-26,1
+"129","Palestine",2020-03-05,1
+"130","Panama",2020-03-25,1
+"131","Papua New Guinea",NA,0
+"132","Paraguay",2020-03-15,1
+"133","Peru",2020-03-10,1
+"134","Philippines",2020-03-16,1
+"135","Poland",2020-03-12,1
+"136","Portugal",2020-03-18,1
+"137","Qatar",2020-03-11,1
+"138","Romania",2020-03-25,1
+"139","Russia",2020-03-27,1
+"140","Rwanda",2020-03-16,1
+"141","Saint Kitts and Nevis",NA,0
+"142","Saint Lucia",2020-03-20,1
+"143","Saint Vincent and the Grenadines",NA,0
+"144","San Marino",2020-03-09,1
+"145","Saudi Arabia",2020-03-15,1
+"146","Senegal",2020-03-24,1
+"147","Serbia",2020-03-15,1
+"148","Seychelles",NA,0
+"149","Sierra Leone",NA,0
+"150","Singapore",2020-03-26,1
+"151","Slovakia",2020-03-09,1
+"152","Slovenia",2020-03-11,1
+"153","Somalia",2020-03-19,1
+"154","South Africa",2020-03-26,1
+"155","Spain",2020-03-14,1
+"156","Sri Lanka",2020-03-21,1
+"157","Sudan",NA,0
+"158","Suriname",NA,0
+"159","Sweden",NA,0
+"160","Switzerland",2020-03-18,1
+"161","Syria",2020-03-14,1
+"162","Taiwan*",2020-02-02,1
+"163","Tanzania",NA,0
+"164","Thailand",2020-03-22,1
+"165","Timor-Leste",NA,0
+"166","Togo",2020-03-20,1
+"167","Trinidad and Tobago",2020-03-13,1
+"168","Tunisia",2020-03-20,1
+"169","Turkey",2020-03-23,1
+"170","Uganda",2020-03-18,1
+"171","Ukraine",2020-03-17,1
+"172","United Arab Emirates",2020-03-24,1
+"173","United Kingdom",2020-03-18,1
+"174","Uruguay",2020-03-16,1
+"175","US",2020-03-13,1
+"176","Uzbekistan",2020-03-20,1
+"177","Vatican City",2020-03-10,1
+"178","Venezuela",2020-03-16,1
+"179","Vietnam",2020-03-19,1
+"180","West Bank and Gaza",2020-03-05,1
+"181","Zambia",NA,0
+"182","Zimbabwe",2020-03-27,1
